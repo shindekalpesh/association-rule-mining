@@ -2,7 +2,7 @@
 
 ### Dataset:
 The dataset page can be found here: [Dataset Page]([url](https://archive.ics.uci.edu/ml/datasets/Online+Retail))
-Direct link to download dataset: [Download Dataset]([url](https://archive.ics.uci.edu/static/public/352/online+retail.zip))
+Direct link to download dataset: [[Download Dataset](https://archive.ics.uci.edu/static/public/352/online+retail.zip)]
 
 ### Tools used:
 - Python 
