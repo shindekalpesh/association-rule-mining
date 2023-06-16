@@ -1,9 +1,8 @@
 # association-rule-mining
-
 ### Market Basket Analysis:
-Market basket analysis is a technique used to discover associations and relationships between items frequently purchased together by customers. The Apriori algorithm is a popular algorithm used to perform market basket analysis. 
+Market Basket Analysis is a technique used to discover associations and relationships between items frequently purchased together by customers. The Apriori algorithm is a popular algorithm used to perform Market Basket Analysis. 
 
-It is evaluated on following:
+The association mining rules are evaluated on following:
 - Support
 - Confidence
 - Lift
