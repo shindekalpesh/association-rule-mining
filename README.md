@@ -1,4 +1,14 @@
 # Association Rule Mining
+
+### Dataset:
+The dataset page can be found here: [Dataset Page]([url](https://archive.ics.uci.edu/ml/datasets/Online+Retail))
+Direct link to download dataset: [Download Dataset]([url](https://archive.ics.uci.edu/static/public/352/online+retail.zip))
+
+### Tools used:
+- Python 
+- Libraries: Pandas, Matplotlib, Seaborn, Mlxtend
+- Google Colab Jupyter Notebook
+
 ### Market Basket Analysis:
 Market Basket Analysis is a technique used to discover associations and relationships between items frequently purchased together by customers. The Apriori algorithm is a popular algorithm used to perform Market Basket Analysis. 
 
