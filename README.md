@@ -7,14 +7,7 @@ It is evaluated on following:
 - Support
 - Confidence
 - Lift
-- Leverage
 - Conviction
-
-Support: The Apriori algorithm starts by calculating the support of each item in the dataset. Support is the proportion of transactions in which an item appears. It helps identify the most frequently occurring items.
-
-
-
-ing:
 
 Support: Support is the proportion of transactions in a dataset that contains a specific itemset. It indicates how frequently an itemset appears in the dataset. Support is calculated as the number of transactions containing the itemset divided by the total number of transactions. A higher support value indicates a stronger association between the items.
 
