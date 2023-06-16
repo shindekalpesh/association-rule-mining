@@ -1,7 +1,8 @@
 # Association Rule Mining
 
 ### Dataset:
-The dataset page can be found here: [Dataset Page]([url](https://archive.ics.uci.edu/ml/datasets/Online+Retail))
+The dataset page can be found here: [[Dataset Page](https://archive.ics.uci.edu/ml/datasets/Online+Retail)]
+<br>
 Direct link to download dataset: [[Download Dataset](https://archive.ics.uci.edu/static/public/352/online+retail.zip)]
 
 ### Tools used:
