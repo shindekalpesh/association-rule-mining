@@ -18,6 +18,7 @@ support is fraction of transactions that contain item X or itemset (X+Y)
 
 support = 0.05 for example means that the item appears in 5% of the transactions
 
+<br>
 Confidence: Confidence measures the conditional probability of finding the consequent item in a transaction given that the transaction contains the antecedent itemset. It is calculated as the support of the combined itemset (antecedent and consequent) divided by the support of the antecedent itemset. Confidence ranges from 0 to 1, where 1 indicates a perfect correlation. Higher confidence values indicate a stronger relationship between the antecedent and consequent.
 
 $$confidence(X->Y) = \frac{\sum(transactions\ with\ X\ and\ Y)}{\sum(transactions\ with\ X)}$$
